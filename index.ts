@@ -25,3 +25,5 @@ const logTodo = (id: number, title: string, completed: boolean) => {
   Is its finished? ${completed}
   `)
 };
+
+//This is the final code
